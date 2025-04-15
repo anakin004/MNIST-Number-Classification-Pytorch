@@ -5,3 +5,5 @@ numpy
 ipywidgets
 ipycanvas
 pillow
+python-cv
+opencv-python
