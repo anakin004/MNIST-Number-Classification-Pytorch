@@ -1,0 +1,7 @@
+torch
+torchvision
+matplotlib
+numpy
+ipywidgets
+ipycanvas
+pillow
