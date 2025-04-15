@@ -24,3 +24,7 @@ The model is saved as "model.pth"
 - PyTorch
 - IPython Widgets (Canvas)
 - Matplotlib
+
+## Demo
+![prediction2](https://github.com/user-attachments/assets/557ef58c-ba1f-4249-80b0-e7159acb73f1)
+![prediction](https://github.com/user-attachments/assets/19fe1ff5-0e2b-4da2-844c-999f9a34a16d)
