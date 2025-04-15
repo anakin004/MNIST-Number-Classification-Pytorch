@@ -25,4 +25,6 @@ The model is saved as "model.pth"
 - IPython Widgets (Canvas)
 - Matplotlib
 
-<img src="https://github.com/user-attachments/assets/7c0320d6-98fa-49ce-9f49-8621aa9ee2bf/prediction2" width="300"/> <img src="https://github.com/user-attachments/assets/07c2a3c4-7785-4186-81a6-21e7e587c5b0/prediction" width="300"/>
+## Demo
+![prediction2](https://github.com/user-attachments/assets/557ef58c-ba1f-4249-80b0-e7159acb73f1)
+![prediction](https://github.com/user-attachments/assets/19fe1ff5-0e2b-4da2-844c-999f9a34a16d)
